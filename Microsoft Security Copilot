@@ -1,0 +1,43 @@
+Microsoft Security Copilot
+
+## What is Microsoft Security Copilot?
+
+Microsoft Security Copilot is an AI-powered security solution that helps security teams investigate threats, analyze incidents, and respond to cyber attacks faster.
+
+It uses Generative AI to provide security insights and assist analysts in their daily tasks.
+
+## How does Security Copilot help?
+
+- Summarizes security incidents
+- Analyzes threats and alerts
+- Helps investigate cyber attacks
+- Provides actionable recommendations
+- Generates security reports
+
+## Plugins in Security Copilot
+
+Plugins allow Security Copilot to connect with different security tools and data sources.
+
+Examples:
+- Microsoft Defender XDR plugin → analyzes security incidents and alerts
+- Microsoft Sentinel plugin → works with security monitoring data
+- Microsoft Intune plugin → helps manage security policies
+
+## Prompt in Security Copilot
+
+A good prompt should include:
+
+- Goal: What you want to achieve
+- Context: Background information
+- Expectations: Desired output format
+- Source: Data source or plugin
+
+## Benefits
+
+- Faster threat investigation
+- Better security decision-making
+- Helps analysts save time
+- Provides AI-powered security insights
+
+**সহজ ভাষায়:**
+Microsoft Security Copilot হলো এমন একটি AI assistant, যা cybersecurity team-কে attack খুঁজে বের করতে, incident বুঝতে এবং দ্রুত ব্যবস্থা নিতে সাহায্য করে।
