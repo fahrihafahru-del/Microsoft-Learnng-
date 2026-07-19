@@ -1,0 +1,52 @@
+Introduction to Generative AI & AI Agents
+
+## What is Generative AI?
+
+Generative AI is a type of Artificial Intelligence that can create new content based on user instructions (prompts).
+
+It can generate:
+- Text
+- Images
+- Code
+- Audio
+- Videos
+
+Examples:
+- Chatbots
+- AI writing assistants
+- Image generation tools
+
+## How does Generative AI work?
+
+Generative AI models learn patterns from large amounts of data. When a user provides a prompt, the model uses its knowledge to generate a relevant response.
+
+Key concepts:
+- Tokens: Small pieces of text that AI models process.
+- Embeddings: Numerical representations that help AI understand meaning and relationships.
+- Large Language Models (LLMs): AI models trained on large datasets to understand and generate human-like text.
+
+---
+
+## What are AI Agents?
+
+AI Agents are AI systems that can understand goals, make decisions, use tools, and complete tasks with limited human guidance.
+
+An AI Agent can:
+- Analyze information
+- Plan tasks
+- Use external tools
+- Take actions to achieve a goal
+
+Examples:
+- Virtual assistants
+- Customer support agents
+- Task automation systems
+
+---
+
+## Benefits
+
+- Improves productivity
+- Automates tasks
+- Helps solve problems faster
+- Supports creativity and innovation
